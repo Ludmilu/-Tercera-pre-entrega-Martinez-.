@@ -1,4 +1,4 @@
-# lm Proyecto Django
+# LM Proyecto Django
 
 Este proyecto utiliza Django con el patrón MVT.
 
